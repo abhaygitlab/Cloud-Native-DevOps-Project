@@ -1,6 +1,6 @@
 # **Cloud-Native DevOps Project** 🚀
 
-![Project Banner](https://i.ibb.co/6Sk70jt/1752237919364.jpg)
+![Project Banner](https://imgur.com/cp6cwlX.png)
 
 This repository contains a full-stack application deployment using modern DevOps practices and cloud-native technologies. The project demonstrates the implementation of Infrastructure as Code (IaC), containerization, orchestration, and continuous integration/deployment (CI/CD) pipelines.
 
